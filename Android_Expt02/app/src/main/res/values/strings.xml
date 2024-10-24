@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Expt02</string>
+    <string name="_1_traveller">1 Traveller</string>
+    <string name="flights">Flights</string>
+    <string name="mars">MARS</string>
+    <string name="space_stations">Space Stations</string>
+    <string name="rovers">Rovers</string>
+    <string name="dca">DCA</string>
+    <string name="depart">DEPART</string>
+</resources>
